@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetootharduino3</string>
+    <item name="action_settings" type="id" />
+</resources>
